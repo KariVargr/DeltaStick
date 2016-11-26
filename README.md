@@ -45,6 +45,8 @@ You will need to find something simalure. once i have time to find a replacment 
 Wire
 Prototyping PCB
 
+(12) 608ZZ Bearings
+
 Joystick
 
 (6) 6-32 Machine Nuts
