@@ -3,14 +3,16 @@ Delta Parallel Robot/Kinematics base flight stick to replace a Throttle only uni
 
 Sorry for the long delay on getting this info up and useable for everyone, i had to change a few elements to make it easier for some one to built it with out taps
 
+Please note iam working on getting all the needed info up here, when i have time.
+
 Parts List Delta Body
 
 (9) 6-32 Machine Nuts
 (9) 6-32 Machine Screws 1 1/2in
 (3-9) 6-32 Machine Screws 3/8in
 
-(24) 10-32 Machine Nuts
-(24) 10-32 Machine Screws Flat Head 3/4in
+(24) 4-40 Machine Nuts
+(24) 4-40 Machine Screws Flat Head 3/4in
 
 (9) 5/16 Machine Nuts
 (3) 5/16 3in Bolt
