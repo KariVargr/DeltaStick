@@ -8,7 +8,8 @@
 (3) Finishing Washer
 Springs
 
-Parts: Each build out will need 
+Parts: Each build out will need
+![Alt text](Parts.jpg?raw=true)
 (2) 608ZZ Bearings
 (1) 5/16 Bolt/Rod 
 (4) 5/16 Machine Nuts
