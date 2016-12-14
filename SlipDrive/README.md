@@ -57,6 +57,8 @@ Step 8:
 Slide a 5/15 Washer on followed by a 5/16 Lock Nut
 Tighten the nut against the Washer.
 
+No Show: At this point you would want to put the gearwall print on to the rod.
+
 Step 9:
 ![Alt text](Step9.jpg?raw=true)
 Place the 29T Slip Gear over the Lock Nut followed by a 5/15 Washer, Spring, Finishing Washer and Last 5/16 Lock Nut.
