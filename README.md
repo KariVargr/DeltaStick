@@ -1,9 +1,10 @@
 # DeltaStick
 Delta Parallel Robot/Kinematics base flight stick to replace a Throttle only unit for Space Flight Sims
 
-Sorry for the long delay on getting this info up and useable for everyone, i had to change a few elements to make it easier for some one to built it with out taps
+# Update
+This project Got put on hold almost in 2018 due to Work, Life and changes in how the same it was building built for changes. i will see about Exporting Editable STL in the near future, if they are still around.
 
-Please note iam working on getting all the needed info up here, when i have time.
+Sorry for the long delay on getting this info up and useable for everyone, i had to change a few elements to make it easier for some one to built it with out taps
 
 Parts List Delta Body
 
@@ -37,7 +38,7 @@ Ardunio Leonardo or Pro Micro
 
 12V 2A DC Power Supply.
 
-(3) TA7291SG
+(3) TA7291SG or L298N 
 You will need to find something simalure. once i have time to find a replacment this will be udpated.
 (Option to Replace this with L298N Motor Driver, 2 to 3 of these will work)
 
