@@ -39,6 +39,7 @@ Ardunio Leonardo or Pro Micro
 
 (3) TA7291SG
 You will need to find something simalure. once i have time to find a replacment this will be udpated.
+(Option to Replace this with L298N Motor Driver, 2 to 3 of these will work)
 
 (3) 10K Resistors
 (3) 1k Resistors
